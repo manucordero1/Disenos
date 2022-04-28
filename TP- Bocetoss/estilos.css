@@ -1,0 +1,22 @@
+body {
+background: rgb(39,5,142);
+background: radial-gradient(circle, rgba(39,5,142,1) 0%, rgba(6,139,149,1) 100%);
+	text-align: center;
+	margin: 25px;
+	font-family: Garamond;
+	font-weight: bold;
+}
+
+.escritorio {
+	width: 1200px;
+}
+
+h1{
+	font-family: Cooper;
+	color: #ffffff;
+	margin-top: 10px;
+}
+p{
+	font-size: 35px;
+	color: orange;
+}
